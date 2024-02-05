@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "title": "Car",
+        "name": "Toyota Camry",
+        "img": "car_image_url_1.jpg",
+        "details": "A popular midsize sedan with excellent fuel efficiency.",
+        "price": 28000,
+        "email":"ahsanmahmud@gmail.com"
+
+    },
+    {
+        "id": 2,
+        "title": "Motorcycle",
+        "name": "Kawasaki Ninja 400",
+        "img": "motorcycle_image_url_2.jpg",
+        "details": "A sporty and agile motorcycle for enthusiasts.",
+        "price": 7500,
+        "email":"mehedisagor2001@gmail.com"
+    },
+    {
+        "id": 3,
+        "title": "Bicycle",
+        "name": "Giant Talon 29er",
+        "img": "bike_image_url_3.jpg",
+        "details": "A versatile mountain bike designed for rough terrains.",
+        "price": 1100,
+        "email": "alice@example.com"
+
+    },
+    {
+        "id": 4,
+        "title": "Truck",
+        "name": "Chevrolet Silverado",
+        "img": "truck_image_url_4.jpg",
+        "details": "A powerful pickup truck known for its towing capacity.",
+        "price": 38000,
+        "email":  "leon@example.com"
+    },
+    {
+        "id": 5,
+        "title": "Scooter",
+        "name": "Honda PCX 150",
+        "img": "scooter_image_url_5.jpg",
+        "details": "A sleek and comfortable scooter for urban commuting.",
+        "price": 4800,
+        "email": "olivia@example.com"
+    },
+    {
+        "id": 6,
+        "title": "Boat",
+        "name": "Grady-White Freedom 235",
+        "img": "boat_image_url_6.jpg",
+        "details": "A versatile boat perfect for fishing and water sports.",
+        "price": 85000,
+        "email":"rachel@example.com"
+    },
+    {
+        "id": 7,
+        "title": "RV",
+        "name": "Airstream Flying Cloud",
+        "img": "rv_image_url_7.jpg",
+        "details": "A luxury travel trailer for adventurous road trips.",
+        "price": 75000,
+        "email": "tina@example.com"
+    },
+    {
+        "id": 8,
+        "title": "Electric Scooter",
+        "name": "Segway Ninebot ES4",
+        "img": "electric_scooter_image_url_8.jpg",
+        "details": "An electric scooter with extended battery life and speed.",
+        "price": 650,
+        "email": "david@example.com"
+    },
+    {
+        "id": 9,
+        "title": "Yacht",
+        "name": "Sunseeker Predator 50",
+        "img": "yacht_image_url_9.jpg",
+        "details": "A luxurious yacht designed for ultimate comfort at sea.",
+        "price": 2.5 ,
+        "email":"charlie@example.com"
+    },
+    {
+        "id": 10,
+        "title": "Jet Ski",
+        "name": "Kawasaki Jet Ski Ultra 310LX",
+        "img": "jetski_image_url_10.jpg",
+        "details": "A high-performance jet ski for thrilling water adventures.",
+        "price": 15000,
+        "email":"bob@example.com"
+    },
+
+    {
+        "id": 11,
+        "title": "Convertible",
+        "name": "Mazda MX-5 Miata",
+        "img": "convertible_image_url_11.jpg",
+        "details": "A classic two-seater convertible for open-air driving.",
+        "price": 32000,
+        "email":"jack@example.com"
+    },
+    {
+        "id": 12,
+        "title": "Mountain Bike",
+        "name": "Santa Cruz Bronson",
+        "img": "mountain_bike_image_url_12.jpg",
+        "details": "A high-performance mountain bike built for trails and downhill.",
+        "price": 4500,
+        "email":  "isabel@example.com"
+    },
+    {
+        "id": 13,
+        "title": "Van",
+        "name": "Mercedes-Benz Sprinter",
+        "img": "van_image_url_13.jpg",
+        "details": "A versatile van perfect for cargo or passenger transport.",
+        "price": 45000,
+        "email": "grace@example.com"
+    },
+    {
+        "id": 14,
+        "title": "Electric Car",
+        "name": "Tesla Model 3",
+        "img": "electric_car_image_url_14.jpg",
+        "details": "An electric car known for its long range and advanced technology.",
+        "price": 45000,
+        "email":  "sam@example.com"
+    },
+    {
+        "id": 15,
+        "title": "Cruiser Bike",
+        "name": "Schwinn Legacy Cruiser",
+        "img": "cruiser_bike_image_url_15.jpg",
+        "details": "A retro-style cruiser bike for casual rides around town.",
+        "price": 400,
+        "email":"moina@gmail.com"
+    },
+    {
+        "id": 16,
+        "title": "Sailboat",
+        "name": "Beneteau Oceanis 40.1",
+        "img": "sailboat_image_url_16.jpg",
+        "details": "A sailboat designed for comfortable and luxurious sailing.",
+        "price": 250000,
+        "email":"urbi@gmail.com"
+    },
+    {
+        "id": 17,
+        "title": "RV Camper",
+        "name": "Winnebago Minnie Winnie",
+        "img": "rv_camper_image_url_17.jpg",
+        "details": "A compact RV camper for family road trips and camping.",
+        "price": 55000,
+        "email":"joy@gmail.com"
+    },
+    {
+        "id": 18,
+        "title": "Electric Bike",
+        "name": "Rad Power Bikes RadRover",
+        "img": "electric_bike_image_url_18.jpg",
+        "details": "An electric bike designed for off-road adventures.",
+        "price": 1500,
+        "email":"sagor@gmail.com"
+    },
+    {
+        "id": 19,
+        "title": "Speedboat",
+        "name": "Scarab 195 Open",
+        "img": "speedboat_image_url_19.jpg",
+        "details": "A high-speed powerboat for water sports and cruising.",
+        "price": 35000,
+        "email":"nathan@example.com"
+    },
+    {
+        "id": 20,
+        "title": "ATV",
+        "name": "Polaris Sportsman 570",
+        "img": "atv_image_url_20.jpg",
+        "details": "An all-terrain vehicle for off-road adventures and work.",
+        "price": 8000,
+        "email": "zeke@example.com"
+    },
+    {
+        "id": 21,
+        "title": "Luxury Car",
+        "name": "Mercedes-Benz S-Class",
+        "img": "luxury_car_image_url_21.jpg",
+        "details": "A high-end luxury sedan known for its comfort and technology.",
+        "price": 80000,
+        "email": "victor@example.com"
+    },
+    {
+        "id": 22,
+        "title": "Touring Motorcycle",
+        "name": "BMW R 1250 GS Adventure",
+        "img": "touring_motorcycle_image_url_22.jpg",
+        "details": "A touring motorcycle built for long-distance adventures.",
+        "price": 18000,
+        "email":"xavier@example.com"
+    },
+    {
+        "id": 23,
+        "title": "City Bike",
+        "name": "Brompton M6L",
+        "img": "city_bike_image_url_23.jpg",
+        "details": "A folding city bike for urban commuting and portability.",
+        "price": 1300,
+        "email":"yasmine@example.com"
+    },
+    {
+        "id": 24,
+        "title": "SUV",
+        "name": "Jeep Grand Cherokee",
+        "img": "suv_image_url_24.jpg",
+        "details": "A versatile SUV for both on-road and off-road adventures.",
+        "price": 35000,
+        "email":"elena@example.com"
+    },
+    {
+        "id": 25,
+        "title": "Jet Boat",
+        "name": "Yamaha 242X E-Series",
+        "img": "jet_boat_image_url_25.jpg",
+        "details": "A powerful jet boat for water sports and family outings.",
+        "price": 55000,
+        "email": "brandon@example.com"
+    }
+]
